@@ -6,8 +6,7 @@ module.exports = {
       colors: {
         bodyColor: "#212428",
         lightText: "#c4cfde",
-        boxBg: "linear-gradient(145deg,#le2024,#23272b)",
-        designColor: "#ff014f",
+
       },
     },
   },
