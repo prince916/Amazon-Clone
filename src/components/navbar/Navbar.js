@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div className='w-full h-[45px] bg-bodyColor'>
-      Navbar
+      Nothing new is here
     </div>
   )
 }
